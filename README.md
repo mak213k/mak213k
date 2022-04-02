@@ -6,5 +6,5 @@ In 2018 I participated in volunteer projects taking care of the site limpabrasil
 I participated in Hackathons (Experience Jam 4 (2017), Experimenta Guarulhos (2017) ). 
 I’ve been working with full stack development in PHP since August 2019 at the Municipality of Guarulhos. 
 I participate of platforms that challenge my technical skills like Codewars and Kaggle. 
-I continue to develop as a programmer and data scientist.
+I continue to develop as a software engineer and data scientist.
 

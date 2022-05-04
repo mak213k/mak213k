@@ -10,6 +10,6 @@ I continue to develop as a software engineer and data scientist.
 
 Profiles
 
-Github: https://github.com/mak213k
-Behance: https://www.behance.net/makrrcb826
-Codewars: https://www.codewars.com/users/mak213k
+<br> Github: https://github.com/mak213k
+<br> Behance: https://www.behance.net/makrrcb826
+<br> Codewars: https://www.codewars.com/users/mak213k

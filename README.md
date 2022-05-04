@@ -8,3 +8,8 @@ I’ve been working with full stack development in PHP since August 2019 at the 
 I participate of platforms that challenge my technical skills like Codewars and Kaggle. 
 I continue to develop as a software engineer and data scientist.
 
+Profiles
+
+Github: https://github.com/mak213k
+Behance: https://www.behance.net/makrrcb826
+Codewars: https://www.codewars.com/users/mak213k

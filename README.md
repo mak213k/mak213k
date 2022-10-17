@@ -11,6 +11,7 @@ I continue to develop as a software engineer and data scientist.
 Profiles
 
 <br> Github: https://github.com/mak213k
+<br> Kaggle: https://www.kaggle.com/makrrc
 <br> Behance: https://www.behance.net/makrrcb826
 <br> Codewars: https://www.codewars.com/users/mak213k
 <br> HackerHanck: https://www.hackerrank.com/makrrc?hr_r=1

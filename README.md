@@ -1,5 +1,3 @@
-![mak213k's GitHub stats](https://github-readme-stats.vercel.app/api?username=mak213k&theme=dark&show_icons=true)
-
 - 👋 Hi, I’m @mak213k
 
 
@@ -17,3 +15,9 @@ Profiles
 <br> Behance: https://www.behance.net/makrrcb826
 <br> Codewars: https://www.codewars.com/users/mak213k
 <br> HackerHanck: https://www.hackerrank.com/makrrc?hr_r=1
+
+<br>
+<br>
+<br>
+
+![mak213k's GitHub stats](https://github-readme-stats.vercel.app/api?username=mak213k&theme=shadow_blue&show_icons=true)

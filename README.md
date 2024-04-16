@@ -1,3 +1,5 @@
+![mak213k's GitHub stats](https://github-readme-stats.vercel.app/api?username=mak213k&theme=dark&show_icons=true)
+
 - 👋 Hi, I’m @mak213k
 
 
